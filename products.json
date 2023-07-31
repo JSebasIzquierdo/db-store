@@ -1,0 +1,59 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 12",
+        "description": "El iPhone 12 tiene una pantalla Super Retina XDR de 6.1 pulgadas, un diseño de cerámica Shield con cuatro veces mejor resistencia a las caídas y el chip A14 Bionic, el más rápido en un smartphone.",
+        "price": 799.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343704000",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "title": "MacBook Air",
+        "description": "El MacBook Air es más potente que nunca gracias al chip M1 de Apple. Con hasta 18 horas de duración de la batería, es el portátil perfecto para trabajar y jugar.",
+        "price": 999.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1603332211000",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "title": "iPad Pro",
+        "description": "El iPad Pro tiene una pantalla Liquid Retina XDR de 12.9 pulgadas, el chip M1 de Apple y una cámara TrueDepth con Face ID. Es el iPad más avanzado hasta la fecha.",
+        "price": 1099.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1618674417000",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "title": "Apple Watch Series 7",
+        "description": "El Apple Watch Series 7 tiene una pantalla más grande y resistente, un diseño renovado y nuevas funcionalidades para mantenerte conectado y saludable.",
+        "price": 399.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-series-7-select-202109?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1631652951000",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "title": "AirPods Pro",
+        "description": "Los AirPods Pro tienen cancelación activa de ruido, modo de transparencia y un ajuste personalizado para ofrecerte una experiencia de sonido envolvente.",
+        "price": 249.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "title": "HomePod mini",
+        "description": "El HomePod mini es un altavoz inteligente que ofrece un sonido increíble y el poder de Siri para controlar tu hogar inteligente.",
+        "price": 99.99,
+        "currency": "USD",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202011?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1603403462000",
+        "rating": 4.5
+      }
+    ]
+  }
+  
