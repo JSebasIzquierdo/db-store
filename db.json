@@ -197,69 +197,6 @@
       "currency": "USD",
       "image": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC_SL1000_.jpg",
       "rating": 4.6
-    },
-    {
-      "id": 23,
-      "title": "Ninja Foodi Deluxe XL Pressure Cooker",
-      "description": "The Ninja Foodi Deluxe XL Pressure Cooker is a versatile kitchen appliance that can pressure cook, air fry, steam, slow cook, and more.",
-      "price": 249.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71S+wuU1gIL._AC_SL1500_.jpg",
-      "rating": 4.8
-    },
-    {
-      "id": 24,
-      "title": "Dyson V11 Animal Cordless Vacuum Cleaner",
-      "description": "The Dyson V11 Animal Cordless Vacuum Cleaner is a powerful and versatile vacuum cleaner that can clean carpets, hard floors, and more with ease.",
-      "price": 599.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71kJvUddNVL._AC_SL1500_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 25,
-      "title": "GoPro HERO9 Black",
-      "description": "The GoPro HERO9 Black is a rugged and waterproof action camera that captures stunning 5K video and 20MP photos. It features HyperSmooth 3.0 stabilization and TimeWarp 3.0 for smooth time-lapse videos.",
-      "price": 399.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61jGeU5vRSL._AC_SL1500_.jpg",
-      "rating": 4.6
-    },
-    {
-      "id": 26,
-      "title": "Philips Sonicare DiamondClean Smart",
-      "description": "The Philips Sonicare DiamondClean Smart is an electric toothbrush that removes up to 10x more plaque than a manual toothbrush. It features four brushing modes and three intensity settings for a customized clean.",
-      "price": 229.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71yUN7J+DhL._AC_SL1500_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 27,
-      "title": "Instant Pot Duo Nova",
-      "description": "The Instant Pot Duo Nova is a versatile kitchen appliance that can pressure cook, slow cook, steam, sauté, and more.",
-      "price": 99.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71cVzv+KZUL._AC_SL1500_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 28,
-      "title": "Breville BES870XL Barista Express Espresso Machine",
-      "description": "The Breville BES870XL Barista Express Espresso Machine is a semi-automatic espresso machine that lets you make café-quality coffee at home.",
-      "price": 699.95,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/81h+O-+xZ-L._AC_SL1500_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 29,
-      "title": "Nespresso Vertuo Next Coffee and Espresso Maker",
-      "description": "The Nespresso Vertuo Next Coffee and Espresso Maker is a single-serve coffee machine that uses Nespresso capsules to make delicious coffee and espresso drinks.",
-      "price": 159.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61KBB8K1wDL._AC_SL1500_.jpg",
-      "rating": 4.6
     }
   ]
 }
