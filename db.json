@@ -1,59 +1,265 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "title": "iPhone 12",
-        "description": "El iPhone 12 tiene una pantalla Super Retina XDR de 6.1 pulgadas, un diseño de cerámica Shield con cuatro veces mejor resistencia a las caídas y el chip A14 Bionic, el más rápido en un smartphone.",
-        "price": 799.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343704000",
-        "rating": 4.5
-      },
-      {
-        "id": 2,
-        "title": "MacBook Air",
-        "description": "El MacBook Air es más potente que nunca gracias al chip M1 de Apple. Con hasta 18 horas de duración de la batería, es el portátil perfecto para trabajar y jugar.",
-        "price": 999.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1603332211000",
-        "rating": 4.8
-      },
-      {
-        "id": 3,
-        "title": "iPad Pro",
-        "description": "El iPad Pro tiene una pantalla Liquid Retina XDR de 12.9 pulgadas, el chip M1 de Apple y una cámara TrueDepth con Face ID. Es el iPad más avanzado hasta la fecha.",
-        "price": 1099.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1618674417000",
-        "rating": 4.7
-      },
-      {
-        "id": 4,
-        "title": "Apple Watch Series 7",
-        "description": "El Apple Watch Series 7 tiene una pantalla más grande y resistente, un diseño renovado y nuevas funcionalidades para mantenerte conectado y saludable.",
-        "price": 399.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-series-7-select-202109?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1631652951000",
-        "rating": 4.6
-      },
-      {
-        "id": 5,
-        "title": "AirPods Pro",
-        "description": "Los AirPods Pro tienen cancelación activa de ruido, modo de transparencia y un ajuste personalizado para ofrecerte una experiencia de sonido envolvente.",
-        "price": 249.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
-        "rating": 4.7
-      },
-      {
-        "id": 6,
-        "title": "HomePod mini",
-        "description": "El HomePod mini es un altavoz inteligente que ofrece un sonido increíble y el poder de Siri para controlar tu hogar inteligente.",
-        "price": 99.99,
-        "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202011?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1603403462000",
-        "rating": 4.5
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 12",
+      "description": "The iPhone 12 features a 6.1-inch Super Retina XDR display, a Ceramic Shield design with four times better drop performance, and the A14 Bionic chip, the fastest in a smartphone.",
+      "price": 799.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343704000",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air",
+      "description": "The MacBook Air is more powerful than ever with Apple's M1 chip. With up to 18 hours of battery life, it's the perfect laptop for work and play.",
+      "price": 999.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1603332211000",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "iPad Pro",
+      "description": "The iPad Pro features a 12.9-inch Liquid Retina XDR display, Apple's M1 chip, and a TrueDepth camera with Face ID. It's the most advanced iPad to date.",
+      "price": 1099.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1618674417000",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "Apple Watch Series 7",
+      "description": "The Apple Watch Series 7 has a larger and more durable display, a redesigned design, and new features to keep you connected and healthy.",
+      "price": 399.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-series-7-select-202109?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1631652951000",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "AirPods Pro",
+      "description": "AirPods Pro feature active noise cancellation, transparency mode, and a custom fit for an immersive sound experience.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "title": "HomePod mini",
+      "description": "The HomePod mini is a smart speaker that offers incredible sound and the power of Siri to control your smart home.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202011?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1603403462000",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "title": "MacBook Pro",
+      "description": "The MacBook Pro is more powerful than ever with Apple's M1 chip. With up to 20 hours of battery life, it's the perfect laptop for work and play.",
+      "price": 1299.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=892&hei=820&fmt=jpeg&qlt=95&.v=1603406905000",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "title": "iMac",
+      "description": "The iMac features a 27-inch Retina 5K display, Apple's M1 chip, and a sleek and slim design. It's the perfect desktop computer for work and play.",
+      "price": 1799.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-27-cto-hero-202008?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1594849639000",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "title": "Apple TV 4K",
+      "description": "The Apple TV 4K lets you watch movies and shows in amazing 4K HDR quality. Streams live sports and news. And has great content from apps like Netflix, Hulu, and ESPN.",
+      "price": 179.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202104_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1619139493000",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "title": "AirTag",
+      "description": "AirTag is a super-easy way to keep track of your stuff. Attach one to your keys, slip another in your backpack. And just like that, they’re on your radar in the Find My app.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-single-select-202104_FMT_WHH?wid=445&hei=445&fmt=jpeg&qlt=95&.v=1617761678000",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "title": "Samsung Galaxy S21",
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, a powerful Exynos 2100 processor, and a triple camera setup with 64MP main sensor.",
+      "price": 799.99,
+      "currency": "USD",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/galaxy-s21/gallery/levant-galaxy-s21-5g-g991-sm-g991bzadebt-368321625?$720_576_PNG$",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "title": "Google Pixel 5",
+      "description": "The Google Pixel 5 features a 6-inch OLED display, a powerful Snapdragon 765G processor, and a dual camera setup with a 12.2MP main sensor.",
+      "price": 699.99,
+      "currency": "USD",
+      "image": "https://store.google.com/product/images/google_pixel_5_just_black.png",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "title": "Dell XPS 13",
+      "description": "The Dell XPS 13 features a 13.3-inch InfinityEdge display, a powerful Intel Core i7 processor, and a sleek and slim design. It's the perfect laptop for work and play.",
+      "price": 1199.99,
+      "currency": "USD",
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/xps_notebooks/13_9310/global_spi/notebook-xps-13-9310-silver-campaign-hero-504x350.png?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=535&qlt=95,0&resMode=sharp2&op_usm=1.75,0.3,2,0&size=535,402",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "title": "Bose QuietComfort Earbuds",
+      "description": "The Bose QuietComfort Earbuds feature active noise cancellation, transparency mode, and a custom fit for an immersive sound experience.",
+      "price": 279.99,
+      "currency": "USD",
+      "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_earbuds/product_silo_images/qc_earbuds_black_EC_hero.psd/jcr:content/renditions/cq5dam.web.320.320.png",
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "title": "Sony WH-1000XM4",
+      "description": "The Sony WH-1000XM4 headphones feature industry-leading noise cancellation, exceptional sound quality, and a comfortable fit for all-day wear.",
+      "price": 349.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "title": "Amazon Echo Dot (4th Gen)",
+      "description": "The Amazon Echo Dot (4th Gen) is a smart speaker with Alexa that lets you control your smart home, play music, and more with just your voice.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61MbLLagiVL._AC_SL1000_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "title": "Fitbit Charge 5",
+      "description": "The Fitbit Charge 5 is a fitness tracker that helps you stay active, sleep well, and manage stress with features like built-in GPS, Active Zone Minutes, and more.",
+      "price": 179.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61j-+9uK9VL._AC_SL1500_.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 18,
+      "title": "Nest Learning Thermostat (3rd Gen)",
+      "description": "The Nest Learning Thermostat (3rd Gen) is a smart thermostat that learns your schedule and programs itself to help save energy. Control it from anywhere with the Nest app.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/41kaOFDXzSL._AC_SL1500_.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "title": "Samsung Galaxy Watch4 Classic",
+      "description": "The Samsung Galaxy Watch4 Classic is a smartwatch that helps you stay connected and healthy with features like ECG monitoring, blood oxygen measurement, and more.",
+      "price": 379.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71lLqZB1NBL._AC_SL1500_.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "title": "JBL Flip 5",
+      "description": "The JBL Flip 5 is a portable Bluetooth speaker that delivers powerful sound and deep bass. It's waterproof and rugged, making it perfect for outdoor adventures.",
+      "price": 119.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61drpi3cYUL._AC_SL1000_.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "title": "Kindle Paperwhite",
+      "description": "The Kindle Paperwhite is a waterproof e-reader with a glare-free display and adjustable light. It holds thousands of books and has a battery life that lasts for weeks.",
+      "price": 129.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61eAq6gg-XL._AC_SL1000_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 22,
+      "title": "Ring Video Doorbell (2nd Gen)",
+      "description": "The Ring Video Doorbell (2nd Gen) lets you see, hear, and speak to visitors from anywhere. It features improved motion detection, privacy zones, and audio privacy.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC_SL1000_.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 23,
+      "title": "Ninja Foodi Deluxe XL Pressure Cooker",
+      "description": "The Ninja Foodi Deluxe XL Pressure Cooker is a versatile kitchen appliance that can pressure cook, air fry, steam, slow cook, and more.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71S+wuU1gIL._AC_SL1500_.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 24,
+      "title": "Dyson V11 Animal Cordless Vacuum Cleaner",
+      "description": "The Dyson V11 Animal Cordless Vacuum Cleaner is a powerful and versatile vacuum cleaner that can clean carpets, hard floors, and more with ease.",
+      "price": 599.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71kJvUddNVL._AC_SL1500_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 25,
+      "title": "GoPro HERO9 Black",
+      "description": "The GoPro HERO9 Black is a rugged and waterproof action camera that captures stunning 5K video and 20MP photos. It features HyperSmooth 3.0 stabilization and TimeWarp 3.0 for smooth time-lapse videos.",
+      "price": 399.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61jGeU5vRSL._AC_SL1500_.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 26,
+      "title": "Philips Sonicare DiamondClean Smart",
+      "description": "The Philips Sonicare DiamondClean Smart is an electric toothbrush that removes up to 10x more plaque than a manual toothbrush. It features four brushing modes and three intensity settings for a customized clean.",
+      "price": 229.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71yUN7J+DhL._AC_SL1500_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 27,
+      "title": "Instant Pot Duo Nova",
+      "description": "The Instant Pot Duo Nova is a versatile kitchen appliance that can pressure cook, slow cook, steam, sauté, and more.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/71cVzv+KZUL._AC_SL1500_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 28,
+      "title": "Breville BES870XL Barista Express Espresso Machine",
+      "description": "The Breville BES870XL Barista Express Espresso Machine is a semi-automatic espresso machine that lets you make café-quality coffee at home.",
+      "price": 699.95,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/81h+O-+xZ-L._AC_SL1500_.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 29,
+      "title": "Nespresso Vertuo Next Coffee and Espresso Maker",
+      "description": "The Nespresso Vertuo Next Coffee and Espresso Maker is a single-serve coffee machine that uses Nespresso capsules to make delicious coffee and espresso drinks.",
+      "price": 159.99,
+      "currency": "USD",
+      "image": "https://m.media-amazon.com/images/I/61KBB8K1wDL._AC_SL1500_.jpg",
+      "rating": 4.6
+    }
+  ]
+}
