@@ -33,7 +33,7 @@
       "description": "The Apple Watch Series 7 has a larger and more durable display, a redesigned design, and new features to keep you connected and healthy.",
       "price": 399.99,
       "currency": "USD",
-      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-series-7-select-202109?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1631652951000",
+      "image": "https://m.media-amazon.com/images/I/51jP5xMV-EL._AC_SL1500_.jpg",
       "rating": 4.6
     },
     {
@@ -51,7 +51,7 @@
       "description": "The HomePod mini is a smart speaker that offers incredible sound and the power of Siri to control your smart home.",
       "price": 99.99,
       "currency": "USD",
-      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202011?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1603403462000",
+      "image": "https://m.media-amazon.com/images/I/61QzbK3DkjL._AC_SL1500_.jpg",
       "rating": 4.5
     },
     {
@@ -96,7 +96,7 @@
       "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, a powerful Exynos 2100 processor, and a triple camera setup with 64MP main sensor.",
       "price": 799.99,
       "currency": "USD",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/galaxy-s21/gallery/levant-galaxy-s21-5g-g991-sm-g991bzadebt-368321625?$720_576_PNG$",
+      "image": "https://m.media-amazon.com/images/I/61CJQoz1-sL._AC_SL1000_.jpg",
       "rating": 4.5
     },
     {
@@ -105,7 +105,7 @@
       "description": "The Google Pixel 5 features a 6-inch OLED display, a powerful Snapdragon 765G processor, and a dual camera setup with a 12.2MP main sensor.",
       "price": 699.99,
       "currency": "USD",
-      "image": "https://store.google.com/product/images/google_pixel_5_just_black.png",
+      "image": "https://m.media-amazon.com/images/I/713N4SwTtKL._AC_SL1500_.jpg",
       "rating": 4.6
     },
     {
@@ -114,7 +114,7 @@
       "description": "The Dell XPS 13 features a 13.3-inch InfinityEdge display, a powerful Intel Core i7 processor, and a sleek and slim design. It's the perfect laptop for work and play.",
       "price": 1199.99,
       "currency": "USD",
-      "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/xps_notebooks/13_9310/global_spi/notebook-xps-13-9310-silver-campaign-hero-504x350.png?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=535&qlt=95,0&resMode=sharp2&op_usm=1.75,0.3,2,0&size=535,402",
+      "image": "https://m.media-amazon.com/images/I/710+gleyyaL._AC_SL1500_.jpg",
       "rating": 4.7
     },
     {
@@ -123,7 +123,7 @@
       "description": "The Bose QuietComfort Earbuds feature active noise cancellation, transparency mode, and a custom fit for an immersive sound experience.",
       "price": 279.99,
       "currency": "USD",
-      "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_earbuds/product_silo_images/qc_earbuds_black_EC_hero.psd/jcr:content/renditions/cq5dam.web.320.320.png",
+      "image": "https://m.media-amazon.com/images/I/51G45qLluWL._AC_SL1500_.jpg",
       "rating": 4.6
     },
     {
