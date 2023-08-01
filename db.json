@@ -134,69 +134,6 @@
       "currency": "USD",
       "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
       "rating": 4.7
-    },
-    {
-      "id": 16,
-      "title": "Amazon Echo Dot (4th Gen)",
-      "description": "The Amazon Echo Dot (4th Gen) is a smart speaker with Alexa that lets you control your smart home, play music, and more with just your voice.",
-      "price": 49.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61MbLLagiVL._AC_SL1000_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 17,
-      "title": "Fitbit Charge 5",
-      "description": "The Fitbit Charge 5 is a fitness tracker that helps you stay active, sleep well, and manage stress with features like built-in GPS, Active Zone Minutes, and more.",
-      "price": 179.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61j-+9uK9VL._AC_SL1500_.jpg",
-      "rating": 4.6
-    },
-    {
-      "id": 18,
-      "title": "Nest Learning Thermostat (3rd Gen)",
-      "description": "The Nest Learning Thermostat (3rd Gen) is a smart thermostat that learns your schedule and programs itself to help save energy. Control it from anywhere with the Nest app.",
-      "price": 249.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/41kaOFDXzSL._AC_SL1500_.jpg",
-      "rating": 4.6
-    },
-    {
-      "id": 19,
-      "title": "Samsung Galaxy Watch4 Classic",
-      "description": "The Samsung Galaxy Watch4 Classic is a smartwatch that helps you stay connected and healthy with features like ECG monitoring, blood oxygen measurement, and more.",
-      "price": 379.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71lLqZB1NBL._AC_SL1500_.jpg",
-      "rating": 4.6
-    },
-    {
-      "id": 20,
-      "title": "JBL Flip 5",
-      "description": "The JBL Flip 5 is a portable Bluetooth speaker that delivers powerful sound and deep bass. It's waterproof and rugged, making it perfect for outdoor adventures.",
-      "price": 119.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61drpi3cYUL._AC_SL1000_.jpg",
-      "rating": 4.8
-    },
-    {
-      "id": 21,
-      "title": "Kindle Paperwhite",
-      "description": "The Kindle Paperwhite is a waterproof e-reader with a glare-free display and adjustable light. It holds thousands of books and has a battery life that lasts for weeks.",
-      "price": 129.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/61eAq6gg-XL._AC_SL1000_.jpg",
-      "rating": 4.7
-    },
-    {
-      "id": 22,
-      "title": "Ring Video Doorbell (2nd Gen)",
-      "description": "The Ring Video Doorbell (2nd Gen) lets you see, hear, and speak to visitors from anywhere. It features improved motion detection, privacy zones, and audio privacy.",
-      "price": 99.99,
-      "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC_SL1000_.jpg",
-      "rating": 4.6
     }
   ]
 }
